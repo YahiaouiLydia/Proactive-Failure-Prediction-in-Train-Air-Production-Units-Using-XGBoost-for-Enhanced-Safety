@@ -65,9 +65,6 @@ Proactive-Failure-Prediction-in-Train-Air-Production-Units-Using-XGBoost-for-Enh
 
 ```
 
-> [!NOTE]
-> You can directly use the pretrained models in `models/` and SHAP outputs in `data/shap/` without retraining.
-
 ---
 
 ## Getting Started
