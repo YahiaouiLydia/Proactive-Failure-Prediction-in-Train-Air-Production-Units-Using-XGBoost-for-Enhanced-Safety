@@ -169,19 +169,3 @@ Performance plots and classification reports are saved as PNG files in the evalu
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-## Acknowledgments
-
-- [MetroPT3 Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
-- Built with Python, XGBoost, SHAP
-
-If you use this work, please cite:
-
-> L. Yahiaoui et al., "Proactive Failure Prediction in Train Air Production Units Using XGBoost for Enhanced Safety," IWCMC 2025, Abu Dhabi, UAE, doi: 10.1109/IWCMC61514.2024.10592361.
-
-
